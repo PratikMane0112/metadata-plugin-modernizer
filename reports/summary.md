@@ -1,6 +1,6 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-06-03 01:26:46 UTC
+Generated on: 2026-06-12 04:57:30 UTC
 
 ## Overview
 - **Total Migrations**: 1335
@@ -15,11 +15,11 @@ Generated on: 2026-06-03 01:26:46 UTC
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
 - io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
-- io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses: 1 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
 - io.jenkins.tools.pluginmodernizer.BanObsoleteDependencyOverrides: 1 failures
-- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
+- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
+- io.jenkins.tools.pluginmodernizer.BanJavaxServletClasses: 1 failures
 
 ## Plugins with Failed Migrations
 - [CustomHistory](../CustomHistory/reports/failed_migrations.csv)
